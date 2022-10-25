@@ -17,3 +17,7 @@ end
 def holaMundo5
     p "aja4"
 end
+
+def holaMundo6
+    p "aja4"
+end
